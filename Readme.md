@@ -47,7 +47,7 @@ Sales Dates: April 2024</p>
 <h2>Graph</h2>
 <ul>
   <li><strong>Graph</strong>: Total Quantity Sold by Product</li>
-  <li><strong>Saved as</strong>: <code>sales_quantity_by_product.png</code></li>
+  <li><strong>Saved as</strong>: <code>sales_chart.png</code></li>
 </ul>
 
 <hr>
